@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "lucide-react": "^1.18.0",
+    "react": "^19.2.7"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}

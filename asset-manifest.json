@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-type-game/static/css/main.260f966a.css",
+    "main.js": "/test-type-game/static/js/main.88738146.js",
+    "static/js/488.ab880208.chunk.js": "/test-type-game/static/js/488.ab880208.chunk.js",
+    "index.html": "/test-type-game/index.html",
+    "main.260f966a.css.map": "/test-type-game/static/css/main.260f966a.css.map",
+    "main.88738146.js.map": "/test-type-game/static/js/main.88738146.js.map",
+    "488.ab880208.chunk.js.map": "/test-type-game/static/js/488.ab880208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.260f966a.css",
+    "static/js/main.88738146.js"
+  ]
+}
